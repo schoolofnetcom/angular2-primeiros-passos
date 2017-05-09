@@ -28,5 +28,5 @@
     "lite-server": "^2.2.2",
     "typescript": "^2.0.2",
     "typings":"2.1.1"
-  },
+  }
 }
